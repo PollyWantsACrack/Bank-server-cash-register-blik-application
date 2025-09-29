@@ -11,3 +11,6 @@ There are 3 diffrent programs:
 To use it run local server. create databases with name products and upload there products2.sql and database with name bank and upload there second sql file.
 After that run bank server, then cash register program and blik app. App is designed for barcode scanner but you can just copy paste sample codes from cosnole. Instructions are shown there. Then choose payemnt method and put data for desired user (see db).
 
+
+ps. blik application was too big so i uploaded it to google drive here is link:
+https://drive.google.com/file/d/1NBGeFjYPFShjxlaI3RKxaqHG3bPKQ7C4/view?usp=sharing
