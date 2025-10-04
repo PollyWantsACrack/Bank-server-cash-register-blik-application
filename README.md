@@ -22,5 +22,5 @@ C) Mobile Blik application
  - Sending code to the bank server
  - Showing the code to the user
 
-Here is Android Studio project becouse it was too big to push it to GitHub
+Here is Android Studio project because it was too big to push it to GitHub
 https://drive.google.com/file/d/1NBGeFjYPFShjxlaI3RKxaqHG3bPKQ7C4/view?usp=sharing
